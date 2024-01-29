@@ -1,4 +1,3 @@
-# Data-Analyst---Pharma-Data-Analysis
-Pharma Data Analysis - Based on Excel
+# Psyliq-Data-Analyst
 Cannot share the dataset due to privacy issue. 
 #Psyliq 
